@@ -9,10 +9,10 @@ En este curso, exploraremos técnicas y herramientas para el procesamiento y an�
 
 Este repositorio está organizado de la siguiente manera:
 
-- **[`/sql`](./sql)**: Scripts de SQL que utilizaremos en nuestras sesiones prácticas.
-- **[`/pyspark`](./pyspark)**: Scripts de PySpark que se usarán durante el curso.
 - **[`/data`](./data)**: Conjuntos de datos que emplearemos para los ejemplos y ejercicios en clase.
+- **[`/pyspark`](./pyspark)**: Scripts de PySpark que se usarán durante el curso.
 - **[`/resources`](./resources)**: Material adicional, como lecturas recomendadas y enlaces útiles.
+- **[`/sql`](./sql)**: Scripts de SQL que utilizaremos en nuestras sesiones prácticas.
 
 ## Cómo Utilizar Este Repositorio
 
