@@ -1,0 +1,14 @@
+# Icono de carpeta personalizado
+.DS_Store
+
+# Archivos de almacenamiento de atributos extendidos
+.AppleDouble
+
+# Archivo de metadatos de Spotlight
+.Spotlight-V100
+
+# Archivo de metadatos de Time Machine
+.Trashes
+
+# Archivos de almacenamiento de atributos de recursos
+._*
